@@ -1,2 +1,2 @@
-# Patern-Recognition-Machine-Learning_IITDh_CSE
+# Patern-Recognition-Machine-Learning
 Pattern Recognition and Machine Learning Models Implementation
