@@ -1,4 +1,4 @@
-## Pattern Recognition and Machine Learning Models Implementation
+## Pattern Recognition and Machine Learning
 
 * [Probability Theory](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Probability%20Theory)
 * [Linear Algebra](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Linear%20Algebra)
