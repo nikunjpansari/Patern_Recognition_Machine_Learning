@@ -1,2 +1,16 @@
-# Patern-Recognition-Machine-Learning
-Pattern Recognition and Machine Learning Models Implementation
+## Pattern Recognition and Machine Learning Models Implementation
+
+* [Probability Theory](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Probability%20Theory)
+* [Linear Algebra](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Linear%20Algebra)
+* [Convex Optimisation](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Convex%20Optimisation)
+* [Clustering - Part 1](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Clustering%20Part%201)
+* [Clustering - Part 2](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Clustering%20Part%202)
+* [Regression - Part 1](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Regression%20Part%201)
+* [Regression - Part 2](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Regression%20Part%202)
+* [Principal Component Analysis - PCA](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/PCA)
+* [Linear Discriminant Analysis - LDA](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/LDA)
+* [Dimensionality Reduction](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Dimensionality%20Reduction)
+* [Classification](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Classification)
+* [GMM - Gaussian Mixture Model](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/GMM_Saddle_Point)
+* [Naive Bayes Classification](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/Naive%20Bayes%20Classification)
+* [Hidden Markov Model](https://github.com/nikunjpansari/Patern_Recognition_Machine_Learning/tree/main/HMM)
